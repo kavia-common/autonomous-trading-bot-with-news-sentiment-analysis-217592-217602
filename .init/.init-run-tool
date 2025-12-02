@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/autonomous-trading-bot-with-news-sentiment-analysis-217592-217602/trading_bot_frontend"
+}
